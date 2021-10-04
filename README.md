@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DaveLopperKelcom
+- 👀 I’m interested in Development
+- 💞️ Working at KelCom
+- 📫 Email me at dev@kelcom.fr
